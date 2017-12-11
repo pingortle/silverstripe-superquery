@@ -15,6 +15,7 @@ use \Convert;
 use \PaginatedList;
 use \ArrayData;
 use \SuperQuerySavedState;
+use \SuperQueryAdmin;
 use PHPSQLParser\PHPSQLParser;
 use PHPSQLParser\PHPSQLCreator;
 
